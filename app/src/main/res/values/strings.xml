@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Vibrate</string>
+    <string name="menu_settings">Settings</string>
+    <string name="state">default</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="persistent_channel_name">Persistent Notification</string>
+    <string name="persistent_channel_description">Shows the required persistent notification.</string>
+    <string name="vibrate_channel_name">Vibrate Icon</string>
+    <string name="vibrate_channel_description">Shows a notification when phone is on vibrate.</string>
+    <string name="persistent_notification_title">Vibrate Icon Service Started.</string>
+    <string name="persistent_notification_content">Long press to hide</string>
+    <string name="vibrate_notification_title">Phone is on vibrate</string>
+    <string name="app_description_text">
+
+    </string>
+
+</resources>
